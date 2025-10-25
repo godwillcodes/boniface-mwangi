@@ -16,13 +16,7 @@ get_header();
                 <p class="text-base lg:text-lg my-4 max-w-4xl" data-aos="fade-up" data-aos-delay="400">
                     Join our volunteer network and play a vital role in mobilizing communities, educating citizens, and safeguarding the electoral process.
                 </p>
-                <a href="/donate" 
-  class="inline-flex items-center gap-2 bg-white text-[#0f6041] px-6 py-2.5 mt-4 text-base font-semibold rounded-full shadow-sm">
-  Donate Now
-  <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-  </svg>
-</a>
+               
 
             </div>
         </div>
